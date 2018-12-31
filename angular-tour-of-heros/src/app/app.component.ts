@@ -6,9 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-<<<<<<< HEAD
-  title = 'angular-tour-of-heros';
-=======
   title = 'Tour of Heros';
->>>>>>> init
 }
